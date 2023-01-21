@@ -1,0 +1,4 @@
+[submodule "ErikAtkinson/panaderiaamericana-16"]
+	path = ErikAtkinson/panaderiaamericana-16
+	url = git@github.com:ErikAtkinson/panaderiaamericana-16.git
+	branch = staging
